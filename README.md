@@ -1,6 +1,6 @@
 # PiClip10
 A simple Japanese input helper for 10-key phone.  
-http://java.apps.opera.com/en_us/piclip10.html
+http://java.oms.apps.bemobi.com/en_us/piclip10.htm
 
 ## Feature
 - Word & Phrase prediction
@@ -12,7 +12,7 @@ http://java.apps.opera.com/en_us/piclip10.html
 - econodic http://www8.atpages.jp/pulpwood/isweb/omake/econodic.html
 
 ## Test
-Tested on Java ME SDK 3.4 and Nokia 3310 3G.
+Tested on Java ME SDK 3.4 and Nokia 3310 3G
 
 ## License
 GNU GENERAL PUBLIC LICENSE Version 3
@@ -20,6 +20,6 @@ http://www.gnu.org/licenses/gpl-3.0.html
 
 ## Version history
 - Version 1.0.0 (2018/01/09)
- * Merge feature with PiClip(https://github.com/ayamadori/PiClip)
+  * Merge feature with PiClip(https://github.com/ayamadori/PiClip)
 - Version 0.6.1 (2008/03/13)
- * Add timeout while key pressing
+  * Add timeout while key pressing
