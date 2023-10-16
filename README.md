@@ -14,7 +14,7 @@ A simple Japanese input helper for feature(Java) phone.
 Tested on Java ME SDK 3.4 and Nokia 3310 3G
 
 ## License
-GNU GENERAL PUBLIC LICENSE Version 3
+GNU GENERAL PUBLIC LICENSE Version 3    
 http://www.gnu.org/licenses/gpl-3.0.html
 
 ## Version history
