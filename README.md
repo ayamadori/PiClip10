@@ -1,6 +1,5 @@
 # PiClip10
-A simple Japanese input helper for 10-key phone.  
-http://java.oms.apps.bemobi.com/en_us/piclip_for_10_key.html
+A simple Japanese input helper for feature(Java) phone.  
 
 ## Feature
 - Word & Phrase prediction
