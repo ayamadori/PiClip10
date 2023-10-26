@@ -1,4 +1,5 @@
 # PiClip10
+![Input.jpg](Screenshot/Input.jpg)  ![Share.jpg](Screenshot/Share.jpg)    
 A simple Japanese input helper for feature(Java) phone.  
 
 ## Feature
